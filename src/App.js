@@ -7,7 +7,8 @@ function App() {
       <div className="Container">
         <h1>Dictionary App</h1>
         <Dictionary />
-        <footer>Coded by Brittany Sak</footer>
+        <br />
+        <p>Coded by Brittany Sak</p>
       </div>
     </div>
   );
