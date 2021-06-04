@@ -8,7 +8,16 @@ export default function App() {
         <h1>Dictionary App</h1>
         <Dictionary />
         <br />
-        <p>Coded by Brittany Sak</p>
+        <p>
+          Project coded by Brittany Sak
+          <br />
+          Open sourced by {""}
+          <a href="https://github.com/bsak350/dictionary-react-app.git">
+            Github {""}
+          </a>
+          and hosted by {""}
+          <a href="https://unruffled-tesla-bdc61e.netlify.app">Netlify</a>
+        </p>
       </div>
     </div>
   );
