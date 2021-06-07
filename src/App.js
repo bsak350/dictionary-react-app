@@ -12,11 +12,21 @@ export default function App() {
           Project coded by Brittany Sak
           <br />
           Open sourced by {""}
-          <a href="https://github.com/bsak350/dictionary-react-app.git">
+          <a
+            href="https://github.com/bsak350/dictionary-react-app.git"
+            target="_blank"
+            rel="noreferrer"
+          >
             Github {""}
           </a>
           and hosted by {""}
-          <a href="https://unruffled-tesla-bdc61e.netlify.app">Netlify</a>
+          <a
+            href="https://unruffled-tesla-bdc61e.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>
         </p>
       </div>
     </div>
