@@ -4,6 +4,10 @@
   margin: 0 auto;
 }
 
+body {
+  background: rgb(169, 234, 242);
+}
+
 .App h1 {
   margin-top: 40px;
 }
