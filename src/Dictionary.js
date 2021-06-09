@@ -57,7 +57,9 @@ export default function Dictionary(props) {
               className="form-control w-100"
             />
           </form>
-          <div className="hint">Get definitions, synonyms, examples...</div>
+          <div className="hint">
+            Get definitions, synonyms, examples, and more
+          </div>
         </section>
         <Results results={results} />
         <Photos photos={photos} />
