@@ -2,11 +2,17 @@
   margin-top: 40px;
 }
 
+.Dictionary h1 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
 .Dictionary section {
   background: white;
   padding: 20px;
   border-radius: 8px;
-  box-shadow: 0 10px 10px rgb(0 0 0 /10%);
+  box-shadow: 0 10px 10px 20px rgb(0 0 0 /10%);
   margin: 20px 0;
 }
 
