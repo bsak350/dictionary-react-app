@@ -7,12 +7,12 @@
 
 .Meaning .definition {
   font-size: 16px;
-  margin: 0;
+  margin-bottom: 0;
 }
 
 .Meaning .example {
   font-size: 16px;
   opacity: 0.7;
   font-style: italic;
-  margin-top: 14px;
+  margin-top: 10px;
 }
