@@ -8,8 +8,7 @@
   color: black;
   background: rgb(8, 214, 207);
   padding: 8px 20px;
-  font-size: 15px;
-  font-weight: bold;
+  font-size: 20px;
   margin-right: 10px;
   border-radius: 20px;
   transition: all 150ms ease-in-out;
@@ -21,6 +20,6 @@
 }
 
 .Phonetic .text {
+  font-size: 20px;
   opacity: 0.7;
-  font-weight: bold;
 }
