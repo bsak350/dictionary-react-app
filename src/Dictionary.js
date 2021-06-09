@@ -43,13 +43,9 @@ export default function Dictionary(props) {
               defaultValue={props.defaultKeyword}
               onChange={handleKeywordChange}
               className="form-control w-100"
-              placeholder="Type a word"
-              autoFocus="on"
             />
           </form>
-          <div className="hint">
-            suggested words: sunset, notebook, bicycle...
-          </div>
+          <div className="hint">Get definitions, synonyms, examples...</div>
         </section>
         <Results results={results} />
       </div>
